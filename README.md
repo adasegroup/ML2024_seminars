@@ -15,3 +15,11 @@ On completion of the course students are expected to:
 - Have an understanding of the strengths and weaknesses of many popular ML approaches;
 - Appreciate the basic underlying mathematical relationships within and across ML algorithms and the paradigms of supervised and unsupervised learning.
 - Be able to design and implement various machine learning algorithms in a range of real-world applications.
+
+## Lectures:
+
+The lectures of the course can be accessed via the [link](https://github.com/adasegroup/ML2024_lectures)
+
+## Contact regarding this github repo:
+
+If you have any questions/suggestions regarding this github repository or have found any bugs, please write to me at Kristian.Kuznetsov@skoltech.ru
