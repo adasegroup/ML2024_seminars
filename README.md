@@ -3,7 +3,7 @@ This is a repository containing seminars for the Skoltech's Machine Learning cou
 
 ## The list of the current seminars published (will be updated with time):
 
-...
+- SEMINAR 1 (29.01): Ilya Trofimov - Machine learning on Titanic data
 
 ## Course Description:
 
