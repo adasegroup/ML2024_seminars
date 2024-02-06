@@ -6,6 +6,7 @@ This is a repository containing seminars for the Skoltech's Machine Learning cou
 - SEMINAR 1 (29.01): Ilya Trofimov - Machine learning on Titanic data
 - SEMINAR 2 (30.01): Egor Shvetsov - Regression. Kernel Trick
 - SEMINAR 3 (01.02): Ilya Trofimov - Classification
+- SEMINAR 4 (06.02): Egor Shvetsov - Tree-based methods, Bagging, Random forest, Adaboost
 
 ## Course Description:
 
