@@ -8,6 +8,7 @@ This is a repository containing seminars for the Skoltech's Machine Learning cou
 - SEMINAR 3 (01.02): Ilya Trofimov - Classification
 - SEMINAR 4 (06.02): Egor Shvetsov - Tree-based methods, Bagging, Random forest, Adaboost
 - SEMINAR 5 (08.02): Alexander Marusov - Gradient Boosting
+- SEMINAR 6 (12.02): Anton Dmitriev - Advanced classification: Imbalanced and Multi-label cases
 
 ## Course Description:
 
