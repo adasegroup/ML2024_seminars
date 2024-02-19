@@ -11,6 +11,7 @@ This is a repository containing seminars for the Skoltech's Machine Learning cou
 - SEMINAR 6 (12.02): Anton Dmitriev - Advanced classification: Imbalanced and Multi-label cases
 - SEMINAR 7 (13.02): Milena Gazdieva - Model and Feature Selection
 - SEMINAR 8 (15.02): Elizaveta Kovtun - Shallow Artificial Neural Networks
+- SEMINAR 9 (19.02): Milena Gazdieva - Deep Artificial Neural Networks
 
 ## Course Description:
 
