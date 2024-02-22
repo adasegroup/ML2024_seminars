@@ -13,6 +13,7 @@ This is a repository containing seminars for the Skoltech's Machine Learning cou
 - SEMINAR 8 (15.02): Elizaveta Kovtun - Shallow Artificial Neural Networks
 - SEMINAR 9 (19.02): Milena Gazdieva - Deep Artificial Neural Networks
 - SEMINAR 10 (20.02): Petr Sokerin - Sequential Data, Attention Mechanism
+- SEMINAR 11 (22.02): Leonid Erlygin - Gaussian Processes
 
 ## Course Description:
 
