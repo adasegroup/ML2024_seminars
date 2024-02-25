@@ -1,2 +1,3 @@
-* Seminar without solutions - https://colab.research.google.com/github/adasegroup/ML2024_seminars/blob/master/seminar11/Gaussian_Processes.ipynb
-* Seminar with solutions - https://colab.research.google.com/github/adasegroup/ML2024_seminars/blob/master/seminar11/Gaussian_Processes_solutions.ipynb
+Dimensionality Reduction:
+* Seminar without solutions - https://colab.research.google.com/github/adasegroup/ML2024_seminars/blob/master/seminar12/Dim_Reduction.ipynb
+* Seminar with solutions - https://colab.research.google.com/github/adasegroup/ML2024_seminars/blob/master/seminar12/Dim_Reduction_solved.ipynb
