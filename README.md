@@ -14,6 +14,7 @@ This is a repository containing seminars for the Skoltech's Machine Learning cou
 - SEMINAR 9 (19.02): Milena Gazdieva - Deep Artificial Neural Networks
 - SEMINAR 10 (20.02): Petr Sokerin - Sequential Data, Attention Mechanism
 - SEMINAR 11 (22.02): Leonid Erlygin - Gaussian Processes
+- SEMINAR 12 (26.02): Kristian Kuznetsov - Dimensionality Reduction
 
 ## Course Description:
 
