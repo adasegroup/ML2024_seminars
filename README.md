@@ -15,6 +15,7 @@ This is a repository containing seminars for the Skoltech's Machine Learning cou
 - SEMINAR 10 (20.02): Petr Sokerin - Sequential Data, Attention Mechanism
 - SEMINAR 11 (22.02): Leonid Erlygin - Gaussian Processes
 - SEMINAR 12 (26.02): Kristian Kuznetsov - Dimensionality Reduction
+- SEMINAR 13 (27.02): Nikita Gushchin - Anomaly Detection
 
 ## Course Description:
 
