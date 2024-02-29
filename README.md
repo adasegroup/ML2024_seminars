@@ -16,6 +16,7 @@ This is a repository containing seminars for the Skoltech's Machine Learning cou
 - SEMINAR 11 (22.02): Leonid Erlygin - Gaussian Processes
 - SEMINAR 12 (26.02): Kristian Kuznetsov - Dimensionality Reduction
 - SEMINAR 13 (27.02): Nikita Gushchin - Anomaly Detection
+- SEMINAR 14 (29.02): Petr Mokrov - Clustering
 
 ## Course Description:
 
